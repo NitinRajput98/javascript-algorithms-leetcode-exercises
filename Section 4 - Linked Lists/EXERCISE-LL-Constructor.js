@@ -1,5 +1,3 @@
-// Exercise: Linked List Constructor
-
 class Node {
     constructor(value) {
         this.value = value;
